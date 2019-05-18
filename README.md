@@ -45,7 +45,7 @@ NODEMCU API
 http://nodemcu.readthedocs.io/en/master/
 
 
-MICRO-LATCH plugin: Actualmente en su fase beta, proporciona un na fácil integración con Latch y el dispositivo cliente, mediante un fronten web. Configurable 100% y simple. Pronto lo tendréis listo para su descarga en nuestro repo https://github.com/hackplayers .
+MICRO-LATCH plugin: Actualmente en su fase beta, proporciona una fácil integración con Latch y el dispositivo cliente, mediante un fronten web. Configurable 100% y simple. Pronto lo tendréis listo para su descarga en nuestro repo https://github.com/hackplayers .
 MODULOS COMPILADOS PARA MICROLACH
 crypto,file,gpio,http,net,node,rtctime,sntp,tmr,uart,websocket,wifi,tls
 
